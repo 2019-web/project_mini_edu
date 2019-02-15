@@ -65,6 +65,8 @@
     - 《Java仿抖音短视频小程序开发全栈式实战项目》，https://coding.imooc.com/class/217.html
     - 《three.js-打造微信爆款小游戏跳一跳》，https://coding.imooc.com/class/282.html
     - 《SpringBoot+MyBatis搭建迷你小程序》，https://www.imooc.com/coursescore/945
+    - 《Springboot 微信小程序 – 微信登录功能实战》，https://www.imooc.com/learn/1059
+    
 
 
 
