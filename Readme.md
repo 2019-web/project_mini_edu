@@ -59,9 +59,14 @@
 
 ### 3.1 参考资料
 
-- 开源多人 VR 环境 Vnet(Java + VRML)的介绍和源代码。
-- 基于 WebGL 的 KataSpace (Sirikata) 参考文档。
-- 基于 Three.js 和 WebSocket 的 3D 虚拟环境 demo。支持多人在线聊天，能够移动并互相看到其他用户的位置。
+- 前端框架不限制只能用Angular，用Vue、WePY也可以或者自己选择
+- 后端编程语言限制用SpringBoot，SpringBoot作为后端Restful服务，前后端分离
+- 参考案例
+    - 《Java仿抖音短视频小程序开发全栈式实战项目》，https://coding.imooc.com/class/217.html
+    - 《three.js-打造微信爆款小游戏跳一跳》，https://coding.imooc.com/class/282.html
+    - 《SpringBoot+MyBatis搭建迷你小程序》，https://www.imooc.com/coursescore/945
+
+
 
 ### 3.2  参考技术路线
 
