@@ -66,11 +66,13 @@
     - 《three.js-打造微信爆款小游戏跳一跳》，https://coding.imooc.com/class/282.html
     - 《SpringBoot+MyBatis搭建迷你小程序》，https://www.imooc.com/coursescore/945
     - 《Springboot 微信小程序 – 微信登录功能实战》，https://www.imooc.com/learn/1059
-    
+
 
 
 
 ### 3.2  参考技术路线
+
+前后端分离，下面的图片仅供参考
 
 ![](./assests/img/1.png)
 
