@@ -56,8 +56,8 @@
 
 ## 3. 建议
 
-- 前端框架不限制只能用Angular，用Vue、WePY也可以或者自己选择
-- 后端编程语言限制用SpringBoot，SpringBoot作为后端Restful服务，前后端分离
+- 前端框架不限制只能用Angular，用Vue.js、WePY、mpvue也可以或者自己选择
+- 后端编程语言限制用Java语言开发，后端框架建议用SpringBoot，SpringBoot作为后端Restful服务，前后端分离
 
 ### 3.1 参考资料
 
