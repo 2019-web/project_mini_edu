@@ -54,18 +54,15 @@
 
 ## 3. 建议
 
-- 采用前后端分离架构。
-- Web3D 展示建议使用 Three.js 。多用户的位置同步、协同聊天等功能，建议使用 WebSocket(Socket.io)。
+- 前端框架不限制只能用Angular，用Vue、WePY也可以或者自己选择
+- 后端编程语言限制用SpringBoot，SpringBoot作为后端Restful服务，前后端分离
 
 ### 3.1 参考资料
 
-- 前端框架不限制只能用Angular，用Vue、WePY也可以或者自己选择
-- 后端编程语言限制用SpringBoot，SpringBoot作为后端Restful服务，前后端分离
-- 参考案例
-    - 《Java仿抖音短视频小程序开发全栈式实战项目》，https://coding.imooc.com/class/217.html
-    - 《three.js-打造微信爆款小游戏跳一跳》，https://coding.imooc.com/class/282.html
-    - 《SpringBoot+MyBatis搭建迷你小程序》，https://www.imooc.com/coursescore/945
-    - 《Springboot 微信小程序 – 微信登录功能实战》，https://www.imooc.com/learn/1059
+- 《Java仿抖音短视频小程序开发全栈式实战项目》，https://coding.imooc.com/class/217.html
+- 《three.js-打造微信爆款小游戏跳一跳》，https://coding.imooc.com/class/282.html
+- 《SpringBoot+MyBatis搭建迷你小程序》，https://www.imooc.com/coursescore/945
+- 《Springboot 微信小程序 – 微信登录功能实战》，https://www.imooc.com/learn/1059
 
 
 
